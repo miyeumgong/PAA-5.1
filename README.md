@@ -1,5 +1,8 @@
 # PAA-5.1
 
+Github link: https://github.com/miyeumgong/PAA-5.1
+
+
 Observations
 #1 The proportion of the total observations chose to accept the coupon: 56.8%
 #2 The proportion of bar coupons were accepted: 41.0%
